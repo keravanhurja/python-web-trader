@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Logs & reports
+logs/
+reports/
+
+# Config files with sensitive data
+config.json
